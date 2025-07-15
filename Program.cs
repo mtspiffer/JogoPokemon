@@ -21,7 +21,7 @@ class Program
         Dictionary<string, List<Pokemon>> regioes = new Dictionary<string, List<Pokemon>>()
         {
             { "fogo", new List<Pokemon> {
-                new Pokemon("Charmander", "grama"),
+                new Pokemon("Charmander", "fogo"),
                 new Pokemon("Charmeleon", "fogo"),
                 new Pokemon("Charizard", "fogo"),
                 new Pokemon("Vulpix", "fogo"),
