@@ -1,0 +1,14 @@
+D:\C#\Aulas\JogoPokemon\bin\Debug\net9.0\JogoPokemon.exe
+D:\C#\Aulas\JogoPokemon\bin\Debug\net9.0\JogoPokemon.deps.json
+D:\C#\Aulas\JogoPokemon\bin\Debug\net9.0\JogoPokemon.runtimeconfig.json
+D:\C#\Aulas\JogoPokemon\bin\Debug\net9.0\JogoPokemon.dll
+D:\C#\Aulas\JogoPokemon\bin\Debug\net9.0\JogoPokemon.pdb
+D:\C#\Aulas\JogoPokemon\obj\Debug\net9.0\JogoPokemon.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Aulas\JogoPokemon\obj\Debug\net9.0\JogoPokemon.AssemblyInfoInputs.cache
+D:\C#\Aulas\JogoPokemon\obj\Debug\net9.0\JogoPokemon.AssemblyInfo.cs
+D:\C#\Aulas\JogoPokemon\obj\Debug\net9.0\JogoPokemon.csproj.CoreCompileInputs.cache
+D:\C#\Aulas\JogoPokemon\obj\Debug\net9.0\JogoPokemon.dll
+D:\C#\Aulas\JogoPokemon\obj\Debug\net9.0\refint\JogoPokemon.dll
+D:\C#\Aulas\JogoPokemon\obj\Debug\net9.0\JogoPokemon.pdb
+D:\C#\Aulas\JogoPokemon\obj\Debug\net9.0\JogoPokemon.genruntimeconfig.cache
+D:\C#\Aulas\JogoPokemon\obj\Debug\net9.0\ref\JogoPokemon.dll
