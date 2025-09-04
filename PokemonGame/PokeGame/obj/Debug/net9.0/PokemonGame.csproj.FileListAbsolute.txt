@@ -1,0 +1,14 @@
+D:\C#\Aulas\PokemonGame\pokemongame\bin\Debug\net9.0\PokemonGame.exe
+D:\C#\Aulas\PokemonGame\pokemongame\bin\Debug\net9.0\PokemonGame.deps.json
+D:\C#\Aulas\PokemonGame\pokemongame\bin\Debug\net9.0\PokemonGame.runtimeconfig.json
+D:\C#\Aulas\PokemonGame\pokemongame\bin\Debug\net9.0\PokemonGame.dll
+D:\C#\Aulas\PokemonGame\pokemongame\bin\Debug\net9.0\PokemonGame.pdb
+D:\C#\Aulas\PokemonGame\pokemongame\obj\Debug\net9.0\PokemonGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Aulas\PokemonGame\pokemongame\obj\Debug\net9.0\PokemonGame.AssemblyInfoInputs.cache
+D:\C#\Aulas\PokemonGame\pokemongame\obj\Debug\net9.0\PokemonGame.AssemblyInfo.cs
+D:\C#\Aulas\PokemonGame\pokemongame\obj\Debug\net9.0\PokemonGame.csproj.CoreCompileInputs.cache
+D:\C#\Aulas\PokemonGame\pokemongame\obj\Debug\net9.0\PokemonGame.dll
+D:\C#\Aulas\PokemonGame\pokemongame\obj\Debug\net9.0\refint\PokemonGame.dll
+D:\C#\Aulas\PokemonGame\pokemongame\obj\Debug\net9.0\PokemonGame.pdb
+D:\C#\Aulas\PokemonGame\pokemongame\obj\Debug\net9.0\PokemonGame.genruntimeconfig.cache
+D:\C#\Aulas\PokemonGame\pokemongame\obj\Debug\net9.0\ref\PokemonGame.dll
